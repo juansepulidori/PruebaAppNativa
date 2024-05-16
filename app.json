@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.juanse728.appnativa"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "10e4bac0-955b-4185-b0cb-1f290d8d9aa1"
+      }
+    },
+    "owner": "juanse728"
   }
 }
